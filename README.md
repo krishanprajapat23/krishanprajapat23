@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Krishan
 ===============================================================================================================================
 
@@ -51,28 +49,10 @@ I am a front-end Developer who loves coding !!!
 
 <div width="100%" align="center"><a href="https://github.com/krishanprajapat23/30-Projects-with-HTML-CSS-and-JavaScript" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krishanprajapat23&repo=30-Projects-with-HTML-CSS-and-JavaScript&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/krishanprajapat23/conference-website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krishanprajapat23&repo=conference-website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-
+<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/krishanprajapat23/ableton-clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krishanprajapat23&repo=ableton-clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/krishanprajapat23/yt-home-clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krishanprajapat23&repo=yt-home-clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<br />
 
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/krish23"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-
-<!--
-**krishanprajapat23/krishanprajapat23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
