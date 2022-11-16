@@ -8,7 +8,6 @@ I am a front-end Developer who loves coding !!!
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Coming Soon](http://....)
-* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
