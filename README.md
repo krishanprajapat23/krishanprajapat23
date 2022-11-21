@@ -7,7 +7,7 @@ Frontend Developer and Web Designer
 I am a front-end Developer who loves coding !!!
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Click to Open](https://krishanprajapat23.github.io)
+* 🖥️  See my portfolio [Click to Open](https://krishanprajapat23.github.io)
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
