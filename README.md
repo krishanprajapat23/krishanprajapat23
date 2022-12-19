@@ -33,6 +33,17 @@ I am a front-end Developer who loves coding !!!
 
 <a href="http://www.github.com/krishanprajapat23"><img src="https://github-readme-stats.vercel.app/api?username=krishanprajapat23&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="krishanprajapat23's GitHub stats" /></a>
 
+
+## Visits
+
+<p align="center">
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@gamedemons?theme=rule34"/></a>
+</p>
+
+Counting since `2022-03-03 T12:00:00Z`
+
+---
+
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/krishanprajapat23/30-Projects-with-HTML-CSS-and-JavaScript" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krishanprajapat23&repo=30-Projects-with-HTML-CSS-and-JavaScript&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/krishanprajapat23/conference-website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krishanprajapat23&repo=conference-website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
